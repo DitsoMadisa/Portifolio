@@ -1,0 +1,41 @@
+body {
+ font-family: 'Times New Roman', Times, serif;
+  background-image: url("Screenshot\ 2025-06-22\ 131857.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+   background-color: rgba(11, 37, 69, 0.6); /* dark blue with 60% opacity */
+  border-radius: 10px;
+  margin-top: 2rem;
+  box-shadow: 0 0 15px rgba(0,0,0,0.05);
+}
+
+header, section, footer {
+  margin-bottom: 2rem;
+}
+
+h1, h2 {
+  color: #fff;
+}
+
+a {
+  color: #ADD8E6; 
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
